@@ -1,1 +1,1 @@
-THis is original sample(new_branch) file.
+THis is original sample(main+new_branch) file.
